@@ -136,4 +136,8 @@ with sns.axes_style('white'):
 
     fig.tight_layout()
 
-"""Dari analisis cohort di atas, dapat dikatakan bahwa pengguna paling banyak pertama kali bertransaksi pada bulan Januari 2010 sebanyak 713 orang. Kemudian, pada pengguna yang pertama kali bertransaksi pada bulan Januari juga merupakan pengguna yang paling banyak bertransaksi di bulan-bulan berikutnya dengan rata-rata mencapai 40% retention rate. Namun, hal yang harus diperhatikan adalah jumlah pengguna yang bertransaksi pertama kali setelah bulan Januari mengalami pengurangan dan menyebabkan pengurangan juga pada retention rate pada bulan-bulan berikutnya. Dimana terlihat retention rate selain pada bulan Januari hanya berkisar kurang dari 40% saja. Yang cukup mengkhawatirkan, retention rate pada bulan Desember menjadi yang terendah dibandingkan dengan retention rate lainnya."""
+"""Dari analisis cohort di atas, dapat dikatakan bahwa pengguna paling banyak pertama kali bertransaksi pada bulan Januari 2010 sebanyak 713 orang. 
+Kemudian, pada pengguna yang pertama kali bertransaksi pada bulan Januari juga merupakan pengguna yang paling banyak bertransaksi di bulan-bulan berikutnya dengan rata-rata mencapai 40% retention rate. 
+Namun, hal yang harus diperhatikan adalah jumlah pengguna yang bertransaksi pertama kali setelah bulan Januari mengalami pengurangan dan menyebabkan pengurangan juga pada retention rate pada bulan-bulan berikutnya. 
+Dimana terlihat retention rate selain pada bulan Januari hanya berkisar kurang dari 40% saja. 
+Yang cukup mengkhawatirkan, retention rate pada bulan Desember menjadi yang terendah dibandingkan dengan retention rate lainnya."""
